@@ -14,5 +14,5 @@
 <g fill="#365b45"><circle cx="145" cy="278" r="3"/><circle cx="368" cy="140" r="3"/><circle cx="599" cy="131" r="3"/></g>
 <g font-family="sans-serif" fill="#314b3a"><rect x="81" y="301" width="132" height="31" rx="6" fill="#fffdf5"/><text x="96" y="321" font-size="13">01 · Riverside start</text><rect x="311" y="91" width="135" height="31" rx="6" fill="#fffdf5"/><text x="326" y="111" font-size="13">02 · Picnic clearing</text><rect x="534" y="82" width="131" height="31" rx="6" fill="#fffdf5"/><text x="549" y="102" font-size="13">03 · Rain shelter</text></g>
 <g transform="translate(630 333)" stroke="#5a6e58"><circle cx="0" cy="0" r="22"/><path d="M0-14 5 9 0 5-5 9Z" fill="#5a6e58"/></g><text x="625" y="300" font-family="sans-serif" font-size="12" fill="#5a6e58">N</text>
-<rect x="28" y="25" width="161" height="28" rx="14" fill="#fffdf5"/><text x="42" y="44" font-family="sans-serif" font-size="12" fill="#44604b" letter-spacing="1">WEEKEND FIELD GUIDE</text>
+<rect x="28" y="25" width="161" height="28" rx="14" fill="#fffdf5"/><text x="42" y="44" font-family="sans-serif" font-size="12" fill="#44604b" letter-spacing="1">TRIP PLANNER</text>
 </svg>
