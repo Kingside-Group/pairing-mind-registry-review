@@ -4,3 +4,4 @@ body{background:#FAFAFA;color:#26282B}body,.review-bar,.review-tour{font-family:
 .next-block .small,.next-block .muted,.next-block .help{color:#435574!important}
 .next-block>p{color:#435574!important}
 .next-block small{color:#435574!important}
+@media(min-width:768px){.mobile-brand.pm-brand{display:none!important}}
