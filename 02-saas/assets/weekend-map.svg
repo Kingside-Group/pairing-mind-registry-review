@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" fill="none">
+<rect width="700" height="420" fill="#e9eddd"/>
+<path d="M-80 50C80-75 190 15 248 99S377 198 431 144 513-26 734 3V-20H-80Z" fill="#c8d2b5"/>
+<path d="M-50 30C97-38 164 29 218 117S368 214 424 154 535 9 720 37M-40 52C82-3 144 42 192 128S357 240 423 177 551 37 730 67M-30 76C75 22 115 66 168 146S347 267 428 202 553 69 739 91M-30 101C65 53 99 92 145 166S329 290 438 225 564 95 730 116" stroke="#aebd99" stroke-width="1.2"/>
+<path d="M-29 359C91 256 133 346 239 332S353 241 467 271 554 424 747 365V440H-29Z" fill="#d5dcc0"/>
+<path d="M-24 391C91 297 145 384 248 363S361 278 466 304 569 455 728 399M-24 414C91 320 145 407 248 386S361 301 466 327 569 478 728 422" stroke="#b7c4a3"/>
+<path d="M-20 180C91 254 179 175 254 208S360 339 433 306 464 172 530 177 580 268 720 223" stroke="#d5e4de" stroke-width="63"/>
+<path d="M-20 180C91 254 179 175 254 208S360 339 433 306 464 172 530 177 580 268 720 223" stroke="#8ebcba" stroke-width="36"/>
+<path d="M-20 177C91 251 179 172 254 205S360 336 433 303 464 169 530 174 580 265 720 220" stroke="#b5d2cc" stroke-width="2"/>
+<path d="M145 278C137 245 160 213 213 184S303 120 368 140 416 231 447 244 470 166 517 142 577 178 599 131" stroke="#f8f6ea" stroke-width="12" stroke-linecap="round"/>
+<path d="M145 278C137 245 160 213 213 184S303 120 368 140 416 231 447 244 470 166 517 142 577 178 599 131" stroke="#416b52" stroke-width="3" stroke-dasharray="2 8" stroke-linecap="round"/>
+<g fill="#426247"><path d="m66 118 9-18 9 18h-6v9h-6v-9zm32 17 9-18 9 18h-6v9h-6v-9zm-16 18 9-18 9 18h-6v9h-6v-9zm473 177 9-18 9 18h-6v9h-6v-9zm29 12 9-18 9 18h-6v9h-6v-9zm31-29 9-18 9 18h-6v9h-6v-9zm-7 50 9-18 9 18h-6v9h-6v-9z"/></g>
+<g fill="#fffdf5" stroke="#365b45" stroke-width="3"><circle cx="145" cy="278" r="10"/><circle cx="368" cy="140" r="10"/><circle cx="599" cy="131" r="10"/></g>
+<g fill="#365b45"><circle cx="145" cy="278" r="3"/><circle cx="368" cy="140" r="3"/><circle cx="599" cy="131" r="3"/></g>
+<g font-family="sans-serif" fill="#314b3a"><rect x="81" y="301" width="132" height="31" rx="6" fill="#fffdf5"/><text x="96" y="321" font-size="13">01 · Riverside start</text><rect x="311" y="91" width="135" height="31" rx="6" fill="#fffdf5"/><text x="326" y="111" font-size="13">02 · Picnic clearing</text><rect x="534" y="82" width="131" height="31" rx="6" fill="#fffdf5"/><text x="549" y="102" font-size="13">03 · Rain shelter</text></g>
+<g transform="translate(630 333)" stroke="#5a6e58"><circle cx="0" cy="0" r="22"/><path d="M0-14 5 9 0 5-5 9Z" fill="#5a6e58"/></g><text x="625" y="300" font-family="sans-serif" font-size="12" fill="#5a6e58">N</text>
+<rect x="28" y="25" width="161" height="28" rx="14" fill="#fffdf5"/><text x="42" y="44" font-family="sans-serif" font-size="12" fill="#44604b" letter-spacing="1">WEEKEND FIELD GUIDE</text>
+</svg>
