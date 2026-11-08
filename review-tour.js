@@ -62,6 +62,8 @@
   if(route!==project&&route!=='projects'&&location.hash!=='#'+project)await navigate(project,token);
   if(await clickVisible(selector,token))return;
   if(token!==run)return;
+  if(route.startsWith('tools/')){await clickVisible('a[href="#tools/'+id+'"]',token);if(await clickVisible(selector,token))return;}
+  if(token!==run)return;
   if(route===project){await clickVisible('a[href="#projects"]',token);if(await clickVisible(selector,token))return;}
   if(token===run){location.hash=route;await pause(120);}
  }
